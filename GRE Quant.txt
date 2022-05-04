@@ -1,0 +1,214 @@
+"<span id=""f716ed02-4d1e-4ca0-b38b-4b82d849404b"" ginger_software_uiphraseguid=""3e5d73bd-7d84-4322-8bf3-92e053430501"" class=""GINGER_SOFTWARE_mark"">units</span> digit"	一の位の数
+"<span id=""8a1fd01c-0bd6-404f-ae67-a53f0a0f94b4"" ginger_software_uiphraseguid=""83330488-ca9a-4a96-8177-5239acbdfb55"" class=""GINGER_SOFTWARE_mark"">rectangle</span>"	長方形
+"<span id=""f22dfd2f-29d0-4cb5-a316-62eb455a6177"" ginger_software_uiphraseguid=""2feaf634-be48-416a-bf74-8045ca601789"" class=""GINGER_SOFTWARE_mark"">perimeter</span>"	境界、周囲の長さ
+"<span id=""5426bdf5-d29a-4a0a-b3f9-0a270b8c2b73"" ginger_software_uiphraseguid=""dccd9e45-9283-4175-8874-9f40736ce359"" class=""GINGER_SOFTWARE_mark"">hypotenuse</span>"	（直角三角形の）斜辺
+"<span id=""b3c3a71b-78fe-4760-afc2-0e78126d1ba4"" ginger_software_uiphraseguid=""b85072a2-b591-427e-b1c3-fe0c32ab431a"" class=""GINGER_SOFTWARE_mark"">leg</span>"	（直角三角形の）斜辺以外の辺
+電卓のM+,M−,MR,MCは何をする？	Memoryの略で、M+はメモリ上の値（初期値0）から現在ウインドウに表示されている値を足し、M-は引く。MRはメモリ上の値を表示し、MCはメモリ上の値を消去し、初期値に戻す。
+"<span id=""bd2e8c56-4ff9-483e-8874-1fe81eaeb1f8"" ginger_software_uiphraseguid=""00673c5c-c5e4-439a-90bc-7e6b3f40966f"" class=""GINGER_SOFTWARE_mark"">base</span>"	基底；基数（数を表すのに必要な記号の個数。10進法なら10）、進法、底面
+"<span id=""1214460b-bfd0-4657-a2c3-2efceba5d6bc"" ginger_software_uiphraseguid=""61b81cc4-fb4c-45db-97e2-dd50f6b34a9b"" class=""GINGER_SOFTWARE_mark"">digit</span>"	（個々の記号としての）アラビア数字
+"<span id=""718c20b3-9263-40a8-a2a7-ead6e88c383b"" ginger_software_uiphraseguid=""b9090673-7b30-42c0-9b91-0ccd0fb394b3"" class=""GINGER_SOFTWARE_mark"">ones</span> digit"	一の位
+factor	約数
+"<span id=""e5c880c1-d577-425f-a416-658eecabcbe8"" ginger_software_uiphraseguid=""aa5d2c52-32c3-47f2-ae4d-de2c2f0a420a"" class=""GINGER_SOFTWARE_mark"">divisor</span>"	約数、割る数
+"<span id=""5af7bb8b-012b-47e1-9163-70fbf7fdd6a7"" ginger_software_uiphraseguid=""28640e49-c5e8-462f-b4b8-0382489daab5"" class=""GINGER_SOFTWARE_mark"">quotient</span>"	商
+"<span id=""783c9a24-c52e-499f-aa6b-69674a46167e"" ginger_software_uiphraseguid=""5edd7179-ae61-4105-b9de-6d74b5ca9ecf"" class=""GINGER_SOFTWARE_mark"">remainder</span>"	余り
+"<span id=""1586f25f-9633-41e2-8f72-dc0e2fd53305"" ginger_software_uiphraseguid=""5e17138b-0c62-4f1b-9e13-63ffdebd001e"" class=""GINGER_SOFTWARE_mark"">mixed</span> fraction"	帯分数
+"<span id=""37660cd3-5c44-4da8-bcbe-4266bac1f873"" ginger_software_uiphraseguid=""b11c1d71-9779-417d-83ae-02be1e20fcd3"" class=""GINGER_SOFTWARE_mark"">perpendicular</span>"	垂直の
+"<span id=""8266876c-92b2-41fd-8b86-b27109fdffd6"" ginger_software_uiphraseguid=""08b995d7-703c-4301-832f-fa50c128fb27"" class=""GINGER_SOFTWARE_mark"">polygon</span>"	多角形
+"<span id=""3f54ff6f-c62f-42ac-bc58-85fb7ddbab61"" ginger_software_uiphraseguid=""5c546359-8a64-44df-b79c-97b7d114702f"" class=""GINGER_SOFTWARE_mark"">quadrilateral</span>"	四辺形、四角形
+"<span id=""41b213ec-cef0-40c0-878f-2dc93c8ed39b"" ginger_software_uiphraseguid=""1efe477d-586a-4ed4-b6da-bddeb2d448b5"" class=""GINGER_SOFTWARE_mark"">parallelogram</span>"	平行四辺形
+"<span id=""f8369a38-cbb3-4140-9e44-dcc878d9ffc8"" ginger_software_uiphraseguid=""43ce3684-d3c1-4dae-9e26-dd2497811088"" class=""GINGER_SOFTWARE_mark"">vertex</span>"	頂点
+"<span id=""9cffc852-766a-476e-ac32-94393713fa38"" ginger_software_uiphraseguid=""eaab7fcf-cdc3-44c1-bf76-2176cb03cb3e"" class=""GINGER_SOFTWARE_mark"">right</span> angle"	直角
+"<span id=""dd0e1e27-e607-451d-b5d0-20f86b5d2836"" ginger_software_uiphraseguid=""6ed6f9bb-e40d-41ab-a134-ca4ea641a8d4"" class=""GINGER_SOFTWARE_mark"">coordinate</span>"	座標
+"<span id=""96602007-78df-4cb1-a811-ad766921b021"" ginger_software_uiphraseguid=""42796175-3802-4e9a-b722-691097b48050"" class=""GINGER_SOFTWARE_mark"">quadrant</span>"	象限<br>
+"<span id=""b9997c90-6dfb-4704-96a4-f11fa9cff0e5"" ginger_software_uiphraseguid=""fa72c20e-d575-4950-9732-db965605ec6d"" class=""GINGER_SOFTWARE_mark"">x</span>-intercept"	交点のx座標<br>
+"<span id=""d994d24d-2d72-4125-b33a-39299219cbc8"" ginger_software_uiphraseguid=""fd339742-a86a-47bc-a059-2fdc395a74f7"" class=""GINGER_SOFTWARE_mark"">consecutive</span>"	連続する
+"<span id=""818e9aea-d498-4e5a-924b-519b0b6d25f1"" ginger_software_uiphraseguid=""d719d53e-6066-4065-a155-d16374a5fc9b"" class=""GINGER_SOFTWARE_mark""><span id=""26252207-0847-4d4c-b197-c8df3a0c4922"" ginger_software_uiphraseguid=""696e76e3-bbaf-4bd1-a09b-d8e264e975fc"" class=""GINGER_SOFTWARE_mark"">interquartile</span> range</span>"	"第三四分位点と第一四分位点の差（F<span id=""a142e23d-5727-4033-abaa-ce80f1a38f9e"" ginger_software_uiphraseguid=""f47bc76e-9c66-4c7e-bbb2-1b1b1c39cf29"" class=""GINGER_SOFTWARE_mark"">(</span>x3<span id=""7d772b94-2d1c-4f80-8fe6-d7bf96f8fbd3"" ginger_software_uiphraseguid=""f47bc76e-9c66-4c7e-bbb2-1b1b1c39cf29"" class=""GINGER_SOFTWARE_mark"">)</span>=0<span id=""f47f6412-5010-40b3-a5ca-e3efbc0283b1"" ginger_software_uiphraseguid=""f47bc76e-9c66-4c7e-bbb2-1b1b1c39cf29"" class=""GINGER_SOFTWARE_mark"">.</span>75, F<span id=""3a5f372e-af03-42cd-b6e7-f395a1a6a65e"" ginger_software_uiphraseguid=""f47bc76e-9c66-4c7e-bbb2-1b1b1c39cf29"" class=""GINGER_SOFTWARE_mark"">(</span>x1<span id=""70ff1b40-d14b-4381-9354-20a162bcd91f"" ginger_software_uiphraseguid=""f47bc76e-9c66-4c7e-bbb2-1b1b1c39cf29"" class=""GINGER_SOFTWARE_mark"">)</span>=0<span id=""0aaffb54-3563-4be2-85a1-dfd139f28693"" ginger_software_uiphraseguid=""f47bc76e-9c66-4c7e-bbb2-1b1b1c39cf29"" class=""GINGER_SOFTWARE_mark"">.</span>25を満たすx1,x3で、x3-x1）"
+"<span id=""35bc17f7-8c4b-4049-8a8e-7129c5d0cc62"" ginger_software_uiphraseguid=""de6772a7-5b92-46da-b652-c012903f2ca7"" class=""GINGER_SOFTWARE_mark"">arithmetic</span>"	算術、算術の
+"<span id=""aba1d850-e7bc-4253-a3c6-ae63f0274442"" ginger_software_uiphraseguid=""63fe2d02-5c10-4735-94e1-83fbcdd46df4"" class=""GINGER_SOFTWARE_mark"">frequency</span> distribution"	度数分布
+"<span id=""4a8b03a1-4d70-47f8-99e0-468ab6c3f8af"" ginger_software_uiphraseguid=""0ebed68b-cec8-4d99-bc70-8e977b23f60b"" class=""GINGER_SOFTWARE_mark"">relative</span> frequency distribution"	相対度数分布
+"<span id=""e82a540d-9de8-466b-b92d-2bbda1be2c11"" ginger_software_uiphraseguid=""c97b2cea-01b7-4ad1-8c8e-3a1f41b7afee"" class=""GINGER_SOFTWARE_mark"">experiment</span>"	試行
+"<span id=""57031ad6-adc3-4069-9cc9-a0768b4ef984"" ginger_software_uiphraseguid=""cbce53f8-ee90-4959-895d-9adab382578a"" class=""GINGER_SOFTWARE_mark"">equally</span> likely"	同様に確からしい
+"<span id=""a014b0cc-467b-4f63-aaf5-86632eaebc0a"" ginger_software_uiphraseguid=""8af2be47-5007-4700-b36c-88c58992d55e"" class=""GINGER_SOFTWARE_mark"">fulcrum</span>"	支点
+"<span id=""fb99f448-a67d-4042-b665-b5661f8f3099"" ginger_software_uiphraseguid=""5cdab18a-5c4e-4b1e-8120-d9dceb5ede16"" class=""GINGER_SOFTWARE_mark"">reduce&nbsp;</span>a fraction <span id=""8a361142-3c4f-4ec5-84a0-1dcec2f16a65"" ginger_software_uiphraseguid=""5cdab18a-5c4e-4b1e-8120-d9dceb5ede16"" class=""GINGER_SOFTWARE_mark"">into</span> lowest terms"	分数を約分する
+"<span id=""652fc8e9-3aa3-4887-b8fd-c8708c607cc2"" ginger_software_uiphraseguid=""51abc9a3-0b14-4dfb-a531-325fa1d9003d"" class=""GINGER_SOFTWARE_mark"">circumference</span>"	円周
+"<span id=""63cf57e1-c494-4a82-ac8f-3c1368c074c6"" ginger_software_uiphraseguid=""fd32a170-5f31-4e1e-97cb-ecd0a0a9dde8"" class=""GINGER_SOFTWARE_mark"">diameter</span>"	直径
+"<span id=""b92c148a-0351-4dd9-9258-f95e7ca25b7a"" ginger_software_uiphraseguid=""eb7ff6f7-b75a-4a96-8bcb-3353f46b02c2"" class=""GINGER_SOFTWARE_mark"">composite</span> number"	合成数（prime numberの対義語）
+"<span id=""9e9efcfa-1227-4d8f-99fb-fa66843b2dfc"" ginger_software_uiphraseguid=""555f84ff-50a6-4bb2-bec8-19324ed375bb"" class=""GINGER_SOFTWARE_mark"">reciprocal</span>"	（分数の）逆数、相互の、互恵的な、お返しの
+"<span id=""e30aacec-65d3-456c-962a-80f111f6492f"" ginger_software_uiphraseguid=""d7425eec-c5f6-4785-8b0c-56d3ddc86923"" class=""GINGER_SOFTWARE_mark"">fourth</span> root"	四乗根
+"<span id=""fd0f8c56-6495-4b64-a5a4-3ede1db0e4d1"" ginger_software_uiphraseguid=""6c9f7e69-4dbd-4f6e-8646-e7509bbc6046"" class=""GINGER_SOFTWARE_mark"">algebra</span>"	代数
+"<span id=""9092b9e9-a993-4340-9c82-8bd64292ace2"" ginger_software_uiphraseguid=""f4749988-8e6e-4b3d-a65c-1ae24eee6942"" class=""GINGER_SOFTWARE_mark"">simple</span> interest"	単利（投資の価値が V=(1+rt)P で表される）
+"<span id=""07095992-982f-4bfa-9845-68180631aa99"" ginger_software_uiphraseguid=""0b300e8f-05d0-4f32-9652-e95ca7b5e692"" class=""GINGER_SOFTWARE_mark"">compound</span> interest"	複利（投資の価値が V=P(1+r)^{t} で表される）
+"<span id=""ee25c1d4-638f-4a06-9591-55cafff757b1"" ginger_software_uiphraseguid=""f6701d5d-09cb-43a2-85e2-2e335060f339"" class=""GINGER_SOFTWARE_mark"">parabola</span>"	放物線
+"<span id=""deab8668-aae5-47eb-8015-f461477a49a9"" ginger_software_uiphraseguid=""02ea3a8a-90f6-4294-94dd-4e1d477608a4"" class=""GINGER_SOFTWARE_mark"">stretch</span> vertically"	（関数を）縦に引き延ばす（g(x)=cf(x)で、c&gt;1の場合を特別にこう呼ぶ場合がある）
+"<span id=""307f8be8-d1bd-4e6c-acc1-00a74c377521"" ginger_software_uiphraseguid=""8c06fab2-782a-4634-8a41-56a526156d11"" class=""GINGER_SOFTWARE_mark"">shrink</span> vertically"	（関数を）縦に縮める（g(x)=cf(x)で、0&lt;c&lt;1の場合を特別にこう呼ぶ場合がある）
+"<span id=""e4ccad30-6811-465f-be4e-fe84a859d343"" ginger_software_uiphraseguid=""9d2f558f-b33e-4505-9f24-f1f14e3d96c7"" class=""GINGER_SOFTWARE_mark"">pentagon</span>"	五角形
+"<span id=""e1d45caa-63cf-4767-8311-b7f5e8b29bba"" ginger_software_uiphraseguid=""b284716b-381d-472a-982b-5f1bc0f995aa"" class=""GINGER_SOFTWARE_mark"">congruent</span>"	合同な
+"<span id=""048ad80d-3830-49d1-a8a9-664f87856128"" ginger_software_uiphraseguid=""9395a604-2aa0-4ae5-ab45-d45509d4adba"" class=""GINGER_SOFTWARE_mark"">side</span>"	（平面図形の）辺
+"<span id=""6d149820-707f-4eb4-ba7a-9a1f0429b7d6"" ginger_software_uiphraseguid=""4d9dab08-12b6-4b38-85de-acb16979a00c"" class=""GINGER_SOFTWARE_mark""><span id=""04a6eff1-0adf-406d-b290-364daae24482"" ginger_software_uiphraseguid=""2c687811-0f33-4f74-a440-6fbf8d7c661d"" class=""GINGER_SOFTWARE_mark"">obtuse</span>&nbsp;</span>angle"	鈍角
+"<span id=""7911fd9c-aa82-4bc5-804e-a71502374a4f"" ginger_software_uiphraseguid=""363a6863-bca8-415f-93e4-4961aa9c8634"" class=""GINGER_SOFTWARE_mark"">acute</span> angle"	鋭角
+"<span id=""ea217bf1-f37b-4a3b-834e-2650d1a81235"" ginger_software_uiphraseguid=""a976d764-5f9b-469e-9d83-d1bc4b049724"" class=""GINGER_SOFTWARE_mark"">line</span> segment"	線分
+vertices<br>	vertexの複数形、多角形の角
+"<span id=""a2174750-81fe-4dc6-aa60-fe99b345981a"" ginger_software_uiphraseguid=""c38a76c3-2179-4797-af2c-694dffd475a8"" class=""GINGER_SOFTWARE_mark"">hexagon</span>"	六角形
+"<span id=""0142cee0-e8da-4b27-b840-608292396e59"" ginger_software_uiphraseguid=""eaccad24-ae80-4d5a-888d-99d1a752082d"" class=""GINGER_SOFTWARE_mark"">equilateral</span> triangle"	正三角形
+"<span id=""f92099c0-5a14-4eb3-a5de-3f89bb839fc5"" ginger_software_uiphraseguid=""16846d4a-b213-4c5a-b60a-38ec0319803f"" class=""GINGER_SOFTWARE_mark"">isosceles</span> triangle"	二等辺三角形
+"<span id=""b9325dc6-281d-46f1-9de3-e6bd219a3114"" ginger_software_uiphraseguid=""018c52c0-dfb9-4147-b5a6-e94694dc1f41"" class=""GINGER_SOFTWARE_mark"">right</span> triangle"	直角三角形
+"<span id=""9b4faa00-8dfe-46c2-a7e9-5bb005d35a22"" ginger_software_uiphraseguid=""80d0a1e9-bbaa-4715-a094-26444fab85e0"" class=""GINGER_SOFTWARE_mark"">similar</span> triangles"	相似な三角形
+"<span id=""b96dbe16-2f99-4a12-a9aa-8391b02e7baf"" ginger_software_uiphraseguid=""ce008284-0177-4d29-bd00-385fabadc70a"" class=""GINGER_SOFTWARE_mark"">square</span>"	正方形
+"<span id=""8567106c-633c-4635-a33a-1d6535e73360"" ginger_software_uiphraseguid=""d5a40cad-ab83-48a8-91f5-439c2e2d57e7"" class=""GINGER_SOFTWARE_mark"">trapezoid</span>"	台形
+"<span id=""87ea07d8-7323-480d-b67c-60a2b5a784c5"" ginger_software_uiphraseguid=""88483f2c-52f1-472d-ab35-14496bee6c61"" class=""GINGER_SOFTWARE_mark"">radius</span>"	半径
+"<span id=""e0b106cf-0c9e-4e0a-b1e1-bee72ec1b2a4"" ginger_software_uiphraseguid=""42a708a5-0d47-4d9a-8200-4d2ff4dd2e70"" class=""GINGER_SOFTWARE_mark"">chord</span>"	（円の）弦
+"<span id=""62b780ac-ba53-4b2a-9f66-eab0f1a2cc5a"" ginger_software_uiphraseguid=""378cb134-e0c9-4f9a-a64c-5762fa0b2f84"" class=""GINGER_SOFTWARE_mark"">arc</span>"	円弧
+"<span id=""d700ee5b-4da4-4251-87de-f6d40fb38b30"" ginger_software_uiphraseguid=""a6b60454-3b8f-4676-9efa-238ad9ef9549"" class=""GINGER_SOFTWARE_mark"">sector</span> of a circle"	扇形
+"<span id=""becde204-d950-4b6d-b00a-35d69860b2e6"" ginger_software_uiphraseguid=""c1483b57-566c-4ef4-9fd6-ce6e3ac342d3"" class=""GINGER_SOFTWARE_mark"">inscribe</span>"	内接させる、（文字などを）刻む、記す<div>inscriptionで碑文<br><div>The tombstone was inscribed with his poem</div></div>
+"<span id=""9039b7d2-0ae2-4f58-a983-d14ca0c02d67"" ginger_software_uiphraseguid=""ba4c1b60-0ad9-47f5-8e88-a49782689622"" class=""GINGER_SOFTWARE_mark"">circumscribe</span>"	"外接させる（A circumscribe about circle: Aを円に外接させる）、制限する<div><span style=""font-weight: bold; color: rgb(83, 74, 66); background-color: rgb(247, 247, 247);""><a href=""https://ejje.weblio.jp/content/My"">My</a>&nbsp;<a href=""https://ejje.weblio.jp/content/duties"">duties</a>&nbsp;circumscribe&nbsp;<a href=""https://ejje.weblio.jp/content/my"">my</a>&nbsp;<a href=""https://ejje.weblio.jp/content/activities"">activities</a>&nbsp;within&nbsp;<a href=""https://ejje.weblio.jp/content/narrow"">narrow</a>&nbsp;bounds.</span><span style=""color: rgb(83, 74, 66); background-color: rgb(247, 247, 247);"">&nbsp;</span><span style=""color: rgb(83, 74, 66); background-color: rgb(247, 247, 247);""><a href=""https://ejje.weblio.jp/content/%E8%81%B7%E5%8B%99%E4%B8%8A"">職務上</a><a href=""https://ejje.weblio.jp/content/%E7%A7%81%E3%81%AE"">私の</a><a href=""https://ejje.weblio.jp/content/%E6%B4%BB%E5%8B%95"">活動</a>は<a href=""https://ejje.weblio.jp/content/%E7%8B%AD%E3%81%84%E7%AF%84%E5%9B%B2"">狭い範囲</a>に<a href=""https://ejje.weblio.jp/content/%E5%88%B6%E9%99%90"">制限</a><a href=""https://ejje.weblio.jp/content/%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B"">されている</a>.</span><br></div>"
+"<span id=""27404989-0ce2-4914-9b31-14baeeb1cf2e"" ginger_software_uiphraseguid=""16b32357-fd21-4121-af54-eb4931a028e0"" class=""GINGER_SOFTWARE_mark"">concentric</span>"	同心の（concentric circles: 同心円）
+"<span id=""6a6ef2c9-a60c-45b1-a110-ee264f418e2e"" ginger_software_uiphraseguid=""16bc37ac-cc5c-4002-becf-ce349921e7a7"" class=""GINGER_SOFTWARE_mark"">rectangular</span> solid"	直方体
+"<span id=""8560cde3-0eaa-4e32-8ea5-450114e2d7e0"" ginger_software_uiphraseguid=""f8000b87-8b1b-477a-a90c-9d781f6c2ac0"" class=""GINGER_SOFTWARE_mark"">face</span>"	（直方体の）面
+"<span id=""af077198-e5fb-4e69-8b27-de391ada539a"" ginger_software_uiphraseguid=""fcb6eb29-f3dc-4ad3-9877-bc742402d865"" class=""GINGER_SOFTWARE_mark"">edge</span>"	（立体の）辺、（円などの）縁
+"<span id=""c25a507a-2c7f-450c-8b22-45b73d5b69c2"" ginger_software_uiphraseguid=""f40d40ad-5deb-4fee-96f4-889cc2109ca2"" class=""GINGER_SOFTWARE_mark"">cube</span>"	立方体
+"<span id=""f2d59adc-d1af-4439-98fd-b96c6793ad15"" ginger_software_uiphraseguid=""d73d3e92-1655-44d0-9119-5dd2c0b023d6"" class=""GINGER_SOFTWARE_mark"">surface</span> area"	表面積
+"<span id=""4d421238-df6f-48ce-bb76-4ad881119bb0"" ginger_software_uiphraseguid=""e19d8abb-a9fe-41e7-928f-0d51e8d787aa"" class=""GINGER_SOFTWARE_mark"">circular</span> cylinder"	円柱
+"<span id=""f63145e7-b356-4102-8b88-f2dc29801bf3"" ginger_software_uiphraseguid=""c7ad7742-1fff-41f4-88a5-93121d8b9bee"" class=""GINGER_SOFTWARE_mark"">lateral</span> surface"	側面
+"<span id=""69942f2e-c07a-4dc7-a579-8c8851376223"" ginger_software_uiphraseguid=""476e3157-4c69-42b5-aff2-7c585d8fdd8d"" class=""GINGER_SOFTWARE_mark"">right</span> circular cylinder"	直円柱
+"<span id=""e6096f0e-882b-4c9d-9371-4bdb386b2ddd"" ginger_software_uiphraseguid=""e1750b3f-9f74-4cca-b7b7-21536123ebae"" class=""GINGER_SOFTWARE_mark"">boxplots</span>"	箱ひげ図
+"<span id=""d2bcf3c2-9732-465f-8197-f25266032701"" ginger_software_uiphraseguid=""42b75721-95b2-4361-b7e5-1723aa1316eb"" class=""GINGER_SOFTWARE_mark"">box</span>-and-whisker plots"	箱ひげ図
+"<span id=""e47df1ef-a81e-4491-b416-0ef16d4694d3"" ginger_software_uiphraseguid=""d73dfde9-497d-4c29-b38e-7eb9785e93eb"" class=""GINGER_SOFTWARE_mark"">permutation</span>"	順列（nPkはpermutations of n objects taken k at a timeなどと言われる）
+"<span id=""b79a6122-ad44-4abf-853b-e8190808c644"" ginger_software_uiphraseguid=""bd3981d1-6ebe-4d38-86bb-a8e9389a0420"" class=""GINGER_SOFTWARE_mark"">only</span> by the full yard"	ヤード単位でしか（sold only by the full yard: ヤード単位でしか売られていない）
+1ヤード=何フィートか	3（なお、1ヤード=（厳密に）0.9144メートル）
+1フィート（英語では1 foot）=何インチか	12
+"<span id=""867d19d9-dc9c-40c9-bc04-0ac30fecf545"" ginger_software_uiphraseguid=""7313e4ae-ae80-4bb4-ae82-abdf5e000635"" class=""GINGER_SOFTWARE_mark"">length</span>"	（四角形の）縦の長さ。longとも
+"<span id=""b741a24f-fa13-430a-88e1-2d7ed97dd9ed"" ginger_software_uiphraseguid=""271aea52-c922-4abd-ba4c-a8c21a777a03"" class=""GINGER_SOFTWARE_mark"">width</span>"	（四角形の）横の長さ（wideとも）
+"<span id=""986f4a4b-d14f-4658-8bf7-2e6110aa418d"" ginger_software_uiphraseguid=""f4c54d09-d0b2-4af0-bb85-ab838e70712e"" class=""GINGER_SOFTWARE_mark"">rhombus</span>"	菱形
+1ポンド=何オンスか	16（1ポンド=約0.4536キログラム）
+prism	角柱
+exterior angle	外角
+cancellation	約分
+simultaneous inequalities	連立不等式
+algebric equation	等式
+prime factorization	素因数分解
+counting numbers	正の整数（自然数）
+tangent line	接線
+cross-sectional area	断面積
+middle point	中点
+corresponding angle	同位角
+complementary angle	余角
+pyramid	四角錐
+decagon	十角形
+foot	垂線の足
+volume	体積
+semicircle	半円
+ray&nbsp;	半直線
+trapezium	不等辺四角形
+arm	辺
+breadth	（長方形の）横の長さ
+A to the power of N	AのN乗
+in N increments	N刻みで
+brackets	かっこ（いわゆる(a+b)(c+d)とかのかっこなので、展開とかの際に利用）
+decimal fraction	小数
+whole number	整数
+double figure	2桁の数
+inverse proportion	反比例
+lowest common multiple	最小公倍数
+greatest common divisor	最大公約数
+hundredths place	小数第二位
+Venn diagram	ベン図
+alternate	交互にする
+raise down	切り捨てる
+truncate	端を切る
+bisect	二等分する
+reduce	約分する
+score	20（4 score years = 80 years）
+trisection	三等分
+common multiple	公倍数
+repeating digit	循環部分
+geometric progression	等比数列
+infinite decimal	無限小数
+finite decimal	有限小数
+cube roots	三乗根
+extreme	極値
+inclination	傾き
+series	級数
+slanting	傾いている
+oblique	"斜角の、斜めの、遠回しの<div><span style=""font-weight: bold; color: rgb(83, 74, 66); background-color: rgb(247, 247, 247);""><a href=""https://ejje.weblio.jp/content/an"">an</a>&nbsp;oblique&nbsp;<a href=""https://ejje.weblio.jp/content/line"">line</a>&nbsp;[<a href=""https://ejje.weblio.jp/content/stroke"">stroke</a>]</span><span style=""color: rgb(83, 74, 66); background-color: rgb(247, 247, 247);"">&nbsp;</span><span style=""color: rgb(83, 74, 66); background-color: rgb(247, 247, 247);""><a href=""https://ejje.weblio.jp/content/%E6%96%9C%E7%B7%9A"">斜線</a>.</span><br></div><div><span style=""font-weight: bold; color: rgb(83, 74, 66); background-color: rgb(247, 247, 247);""><a href=""https://ejje.weblio.jp/content/an"">an</a>&nbsp;oblique&nbsp;<a href=""https://ejje.weblio.jp/content/comment"">comment</a></span><span style=""color: rgb(83, 74, 66); background-color: rgb(247, 247, 247);"">&nbsp;</span><span style=""color: rgb(83, 74, 66); background-color: rgb(247, 247, 247);""><a href=""https://ejje.weblio.jp/content/%E9%96%93%E6%8E%A5%E7%9A%84%E3%81%AA"">間接的な</a>[<a href=""https://ejje.weblio.jp/content/%E9%81%A0%E5%9B%9E%E3%81%97%E3%81%AE"">遠回しの</a>]<a href=""https://ejje.weblio.jp/content/%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88"">コメント</a>.</span><span style=""color: rgb(83, 74, 66); background-color: rgb(247, 247, 247);""><br></span></div>"
+distinct	異なる
+counter clockwise	反時計回りの
+mutually exclusive	互いに背反の
+X-ray	X線
+orbit	軌道、旋回する
+equilateral	長さが等しい
+equiangular	等角の
+collinear	同一線上の
+scalene	不等辺（三角形）
+dividend	割られる数、配当金
+equidistant	等距離の
+inscribed angle	円周角
+revolution	回転
+origin	原点
+altitude	（三角形の）高さ
+heptagon	七角形
+halfway	真ん中
+point of contact	接点
+vertical angle	対頂角
+moinor arc	短い方の孤
+isosceles trapezoid	等脚台形
+base angle	（二等辺三角形の）底角
+N-figure number	Nけたの数
+place value	位（What is the place value of 4 in the number 3,471？）
+radical sign	根号
+least common multiple	最小公倍数（LCM)
+recurring decimal	循環小数
+mediator	垂直二等分線
+oval	楕円
+diagonal	対角線
+apex	（グラフの）頂点
+cuboid	直方体
+half-turn	半回転
+supplement	補角、補足、付録<div>supplementaryで追加の、補充的な</div>
+complement	余角
+unit	一の位
+hundredths	パーセント
+estimate	近似値
+principal	元金、校長、主要な、第一の
+direct propotion	正比例
+irrational number	無理数
+rational number	有理数
+universal set	全体集合
+mixed number	帯分数
+fold	倍
+bearing&nbsp;	方角
+raised to a unit	切り上げる
+encircle	取り囲む（Square A is encircled by circle B ⇒ 正方形Aは円Bに内接する)
+subtitute M for N	NにMを代入する
+round off&nbsp;	四捨五入する
+periodic decimal	循環小数
+solid of revolution	回転体
+alternate angle	錯角
+opposite side	対辺
+central angle	中心角
+in number	合計で
+turn	回転する
+cut away fractions	端数を切り捨てる
+cone	円錐
+nonagon	九角形
+ellipse	楕円<div>ellipticalで楕円の</div>
+octagon	八角形
+content	容積
+straight angle	平角（180度）
+reflex angle	優角（180-360度、2辺を共有する角のうち大きい角）
+inferior angle	劣角（0-180度、2辺共有する角のうち小さい方の角）
+common difference	公差
+fractional part	小数部分
+arithmetic progression	等差数列
+subtrahend	引く数
+factorial	階乗
+reciprocal&nbsp;	逆数
+hyperbola	双曲線
+residue	余り
+union	和集合
+intersection	（集合の）共通部分
+actual number	実数
+common factor	公約数
+factoring	因数分解
+mass	質量
+Pythagorean theorem	ピタゴラスの定理
+to the nearest ~	（それ以下のくらいは四捨五入して）〜単位まで
