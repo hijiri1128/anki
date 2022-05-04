@@ -11,4 +11,5 @@ TOEFLテスト英単語3800 (link: https://www.obunsha.co.jp/product/detail/0944
 - GRE Quant.txt
 
 
-* GRE Verbalについては、私はiKnowというアプリを利用していました。(link: https://iknow.jp/)
+
+（GRE Verbalについては、私はiKnowというアプリを利用していました。(link: https://iknow.jp/)）
